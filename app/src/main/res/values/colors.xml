@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_theme">#0A8F10</color>
+    <color name="search_bar">#E7E5E5</color>
+    <color name="rating_normal">#C5A30E</color>
+    <color name="rating_selected">#45443F</color>
+</resources>
